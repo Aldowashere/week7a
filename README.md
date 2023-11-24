@@ -1,7 +1,8 @@
-# To Do with RTK #
+# To-Do App with RTK #
 
 ## Overview
-This project is a [brief description of what your project does].
+This project is a simple To-Do App built using React, Material UI, Next.js, and Redux ToolKit. 
+It allows users to manage tasks by adding, editing, marking as completed, and deleting them.
 
 ## Tech Stack
 - React
@@ -10,11 +11,16 @@ This project is a [brief description of what your project does].
 - Redux Toolkit (RTK)
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
-2. Navigate to the project directory: `cd your-project-folder`
+1. Clone the repository: `git clone https://github.com/Aldowashere/week7a.git`
+2. Navigate to the project directory: `cd week7a`
 3. Install dependencies: `npm install`
 
 ## Usage
-[Explain how to use your project, including any specific commands or steps needed to run it.]
+- Use the text field to input tasks, then click `Add` to create a new task.
+- Click `Delete` to remove a task from the list.
+- Hit `Edit` to modify an existing task.
 
-## Project Structure
+## Login and Signup
+- Fill text field with proper Mail and Password to Signup
+- Fill  text field with proper Mail and Password to Login
+
